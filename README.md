@@ -2,5 +2,5 @@
 Simplified version of Shamir's Secret Sharing algorithm
 
 
-Output for input1.json -> 3
-Output for input1.json -> 6
+Output for input1.json -> 3 "\n"
+Output for input2.json -> 6
